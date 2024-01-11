@@ -9,8 +9,9 @@
 #define IDR_MAINFRAME                   128
 #define TreeEntry_Edit                  1001
 #define Create_Tree_Button              1003
-#define IDC_COMBO1                      1006
 #define IDC_LIST1                       1007
+#define IDC_LIST2                       1008
+#define IDC_LIST3                       1009
 
 // Next default values for new objects
 // 
